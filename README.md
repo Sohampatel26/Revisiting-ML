@@ -1,5 +1,5 @@
 # Revisiting-ML
-Logs of ML concepts that am gonna revise everyday.
+Logs of ML concepts that am revising each day.
 
 
 Day1- Completed Decision Trees adding the notes and codes from scratch and using different libraries
