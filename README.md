@@ -1,4 +1,4 @@
-# Revisiting-ML (Goal: Revising concepts of AI/Ml, NLP and GEN-AI)
+# Revisiting-ML (Goal: Revising concepts of AI/ML, NLP and GEN-AI)
 Logs of ML concepts that am revising each day.
 
 
