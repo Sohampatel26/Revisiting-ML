@@ -12,3 +12,6 @@ Day3- Completed Random Forest along with its code and made a project on Decision
 
 
 Day4- Completed SVM and KNN also added their notes and codes.
+
+
+Day5- Completed K means clustering, AdaBoost, Gradient Boosting and XGBoost with notes and codes also made a project on SVM (Stroke Prediction using SVM).
