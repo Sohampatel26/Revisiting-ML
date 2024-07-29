@@ -21,3 +21,9 @@ Day6- Worked with RNN and its mathematics, created notes of the same.
 
 
 Day7- Learnt LSTM in very detail and created its notes along with the code template.
+
+
+Day8- SOolely worked on internship tasks (AWS database)
+
+
+Day9- Revised the mathematcs behinf Transformers and also made notes on the same
