@@ -26,4 +26,4 @@ Day7- Learnt LSTM in very detail and created its notes along with the code templ
 Day8- SOolely worked on internship tasks (AWS database)
 
 
-Day9- Revised the mathematcs behinf Transformers and also made notes on the same
+Day9- Revised the mathematcs behind Transformers and also made notes on the same
