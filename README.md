@@ -30,3 +30,16 @@ Day9- Statrted working on transformers and its mathematics.
 
 
 Day10: Completed Transformers and also created its notes.
+
+
+
+
+
+
+
+
+
+
+
+Topics I skipped unintentionally (I would cover them later): 
+PCA, Types of loss functions and the gradient algorithms, Regression
