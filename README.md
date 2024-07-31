@@ -15,3 +15,15 @@ Day4- Completed SVM and KNN also added their notes and codes.
 
 
 Day5- Completed K means clustering, AdaBoost, Gradient Boosting and XGBoost with notes and codes also made a project on SVM (Stroke Prediction using SVM).
+
+
+Day6- Worked with RNN and its mathematics, created notes of the same.
+
+
+Day7- Learnt LSTM in very detail and created its notes along with the code template.
+
+
+Day8- Solely worked on internship tasks (AWS database)
+
+
+Day9- Revised the mathematcs behind Transformers and also made notes on the same
