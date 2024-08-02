@@ -26,4 +26,20 @@ Day7- Learnt LSTM in very detail and created its notes along with the code templ
 Day8- Solely worked on internship tasks (AWS database)
 
 
-Day9- Revised the mathematcs behind Transformers and also made notes on the same
+Day9- Statrted working on transformers and its mathematics.
+
+
+Day10: Completed Transformers and also created its notes.
+
+
+
+
+
+
+
+
+
+
+
+Topics I skipped unintentionally (I would cover them later): 
+PCA, Types of loss functions and the gradient algorithms, Regression
