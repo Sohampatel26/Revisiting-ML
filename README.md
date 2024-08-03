@@ -1,5 +1,5 @@
-# Revisiting-ML (Goal: Revising concepts of AI/ML, NLP and GEN-AI)
-Logs of ML concepts that am revising each day.
+Machine Learning in very detail
+Logs of ML concepts that am revising each day. Also as a Computer Science Engineer I did majority of these concepts before. But this time I am trying to revisit some and learn the rest in very detail and am also trying to make notes of the same to explain my learnings in the easiest terms possible.
 
 
 Day1- Completed Decision Trees adding the notes and codes from scratch and using different libraries.
