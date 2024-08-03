@@ -46,5 +46,5 @@ Day12,Day13- Completed Boltzmann machines and its types in very detail (making n
 
 
 
-Topics I skipped unintentionally (I would cover them later): 
+Topics I skipped intentionally (I would cover them later): 
 PCA, Types of loss functions and the gradient algorithms, Regression, Self Organising Maps.
