@@ -29,8 +29,13 @@ Day8- Solely worked on internship tasks (AWS database)
 Day9- Statrted working on transformers and its mathematics.
 
 
-Day10: Completed Transformers and also created its notes.
+Day10- Completed Transformers and also created its notes.
 
+
+Day11- Completed Auto encoders and published itt's notes
+
+
+Day12,Day13- Completed Boltzmann machines and its types in very detail (making notes of the same) and also viewed the uses of Autoencoders and Boltzmann Machines in space of GEN-AI.
 
 
 
