@@ -1,5 +1,9 @@
-# Revisiting-ML (Goal: Revising concepts of AI/ML, NLP and GEN-AI)
+# Machine Learning in very detail.
+
 Logs of ML concepts that am revising each day.
+
+As a Computer Science Engineer and a Data Science graduate, I did majority of these concepts before. But this time I am trying to revisit some and learn the rest in very detail. And am also trying to make notes of the same to explain my learnings in the easiest terms possible.
+
 
 
 Day1- Completed Decision Trees adding the notes and codes from scratch and using different libraries.
@@ -29,7 +33,13 @@ Day8- Solely worked on internship tasks (AWS database)
 Day9- Statrted working on transformers and its mathematics.
 
 
-Day10: Completed Transformers and also created its notes.
+Day10- Completed Transformers and also created its notes.
+
+
+Day11- Completed Auto encoders and published itt's notes
+
+
+Day12,Day13- Completed Boltzmann machines and its types in very detail (making notes of the same) and also viewed the uses of Autoencoders and Boltzmann Machines in space of GEN-AI.
 
 
 
@@ -40,6 +50,5 @@ Day10: Completed Transformers and also created its notes.
 
 
 
-
-Topics I skipped unintentionally (I would cover them later): 
-PCA, Types of loss functions and the gradient algorithms, Regression
+Topics I skipped intentionally (I would cover them later): 
+PCA, Types of loss functions and the gradient algorithms, Regression, Self Organising Maps.
