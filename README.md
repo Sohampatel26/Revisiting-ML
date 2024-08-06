@@ -2,7 +2,7 @@
 
 Logs of ML concepts that am revising each day.
 
-As a Computer Science Engineer and a Data Science graduate, I did majority of these concepts before. But this time I am trying to revisit some and learn the rest in very detail. And am also trying to make notes of the same to explain my learnings in the easiest terms possible.
+As a Computer Science Engineer and a Data Science graduate, I did majority of these concepts before. But this time I am trying to revisit some and learn the rest in very detail. And am also trying to make notes of the same to explain my learnings in the easiest way possible.
 
 
 
