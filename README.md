@@ -39,7 +39,7 @@ Day10- Completed Transformers and also created its notes.
 Day11- Completed Auto encoders and published itt's notes
 
 
-Day12,Day13- Completed Boltzmann machines and its types in very detail (making notes of the same) and also viewed the uses of Autoencoders and Boltzmann Machines in space of GEN-AI.
+Day12,Day13- Completed Boltzmann machines and its types in very detail (making notes of the same).
 
 
 Day 14- Completer GRU's, self attention for seq to seq models, also explored VAE in very detail, made notes of the same.
