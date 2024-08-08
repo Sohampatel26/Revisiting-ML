@@ -2,7 +2,7 @@
 
 Logs of ML concepts that am revising each day.
 
-As a Computer Science Engineer and a Data Science graduate, I did majority of these concepts before. But this time I am trying to revisit some and learn the rest in very detail. And am also trying to make notes of the same to explain my learnings in the easiest terms possible.
+As a Computer Science Engineer and a Data Science graduate, I did majority of these concepts before. But this time I am trying to revisit some and learn the rest in very detail. And am also trying to make notes of the same to explain my learnings in the easiest way possible.
 
 
 
@@ -39,10 +39,13 @@ Day10- Completed Transformers and also created its notes.
 Day11- Completed Auto encoders and published itt's notes
 
 
-Day12,Day13- Completed Boltzmann machines and its types in very detail (making notes of the same) and also viewed the uses of Autoencoders and Boltzmann Machines in space of GEN-AI.
+Day12,Day13- Completed Boltzmann machines and its types in very detail (making notes of the same).
 
 
+Day 14- Completer GRU's, self attention for seq to seq models, also explored VAE in very detail, made notes of the same.
 
+
+Day15,16- Worked around GAN's and revised the working of the transformers and made detailed notes on the same.
 
 
 
