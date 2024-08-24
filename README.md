@@ -53,5 +53,4 @@ Day15,16- Worked around GAN's and revised the working of the transformers and ma
 
 
 
-Topics I skipped intentionally (I would cover them later): 
-PCA, Types of loss function, gradient algorithms, Regression, Self Organising Maps.
+Yet to update complete Logs
